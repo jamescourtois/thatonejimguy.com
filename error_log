@@ -1,0 +1,12 @@
+[23-Feb-2016 18:11:54 America/Detroit] PHP Warning:  move_uploaded_file(uploads/Screenshot_2016-02-15-09-31-09.png): failed to open stream: No such file or directory in /home/thejimte/public_html/upload.php on line 12
+[23-Feb-2016 18:11:54 America/Detroit] PHP Warning:  move_uploaded_file(): Unable to move '/tmp/phpD7EHRP' to 'uploads/Screenshot_2016-02-15-09-31-09.png' in /home/thejimte/public_html/upload.php on line 12
+[23-Feb-2016 18:12:14 America/Detroit] PHP Warning:  move_uploaded_file(uploads/Screenshot_2016-02-15-10-13-53.png): failed to open stream: No such file or directory in /home/thejimte/public_html/upload.php on line 12
+[23-Feb-2016 18:12:14 America/Detroit] PHP Warning:  move_uploaded_file(): Unable to move '/tmp/phpcam4iW' to 'uploads/Screenshot_2016-02-15-10-13-53.png' in /home/thejimte/public_html/upload.php on line 12
+[23-Feb-2016 18:15:12 America/Detroit] PHP Warning:  move_uploaded_file(uploads/Screenshot_2016-02-15-10-14-00.png): failed to open stream: No such file or directory in /home/thejimte/public_html/upload.php on line 12
+[23-Feb-2016 18:15:12 America/Detroit] PHP Warning:  move_uploaded_file(): Unable to move '/tmp/phpudLHdv' to 'uploads/Screenshot_2016-02-15-10-14-00.png' in /home/thejimte/public_html/upload.php on line 12
+[23-Feb-2016 18:17:54 America/Detroit] PHP Warning:  move_uploaded_file(uploads/Screenshot_2016-02-15-10-14-00.png): failed to open stream: No such file or directory in /home/thejimte/public_html/upload.php on line 12
+[23-Feb-2016 18:17:54 America/Detroit] PHP Warning:  move_uploaded_file(): Unable to move '/tmp/phponX4Cz' to 'uploads/Screenshot_2016-02-15-10-14-00.png' in /home/thejimte/public_html/upload.php on line 12
+[23-Feb-2016 18:18:46 America/Detroit] PHP Warning:  move_uploaded_file(uploads/Screenshot_2016-02-15-10-14-00.png): failed to open stream: No such file or directory in /home/thejimte/public_html/upload.php on line 12
+[23-Feb-2016 18:18:46 America/Detroit] PHP Warning:  move_uploaded_file(): Unable to move '/tmp/phpoiUnwb' to 'uploads/Screenshot_2016-02-15-10-14-00.png' in /home/thejimte/public_html/upload.php on line 12
+[23-Feb-2016 18:19:34 America/Detroit] PHP Warning:  move_uploaded_file(uploads/Screenshot_2016-02-15-10-13-53.png): failed to open stream: No such file or directory in /home/thejimte/public_html/upload.php on line 12
+[23-Feb-2016 18:19:34 America/Detroit] PHP Warning:  move_uploaded_file(): Unable to move '/tmp/phpFaOFcI' to 'uploads/Screenshot_2016-02-15-10-13-53.png' in /home/thejimte/public_html/upload.php on line 12

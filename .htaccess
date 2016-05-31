@@ -1,0 +1,6 @@
+
+RewriteEngine on
+RewriteCond %{HTTP_HOST} ^thatonejimguy\.com$ [OR]
+RewriteCond %{HTTP_HOST} ^www\.thatonejimguy\.com$
+RewriteRule ^resume$ "http\:\/\/thatonejimguy\.com\/resume\.html" [R=301,L]
+
