@@ -26,6 +26,9 @@ a:hover, a:active {
     text-decoration:underline;
 }
 
+.italic {
+    font-family: 'AsapItalic', sans-serif;
+}
 
 
 .about a {
@@ -160,7 +163,7 @@ h1 {font-size:30px;line-height:34px;}
     .col-xs-6, .col-md-4 {
         text-align: center;
         height:auto;
-        padding-bottom:30px;
+        padding-bottom:40px;
     }
     .mobile {
         display:none;
@@ -217,9 +220,11 @@ footer p {
     box-shadow:0px 2px 2px rgba(0,0,0,.9);
     -webkit-box-shadow:0px 2px 2px rgba(0,0,0,.9);
     overflow: hidden;
+    margin:auto;
 }
 .box img {
     margin-top:-150px;
+
 }
 .box img:hover {
     opacity: 0;
@@ -227,6 +232,14 @@ footer p {
     -moz-transition: opacity .5s ease-in-out;
     -o-transition: opacity .5s ease-in-out;
     transition: opacity .5s ease-in-out;
+}
+
+.mobile p.title {
+    margin: 10px auto 0;
+    font-size:12px;
+    text-align: center;
+    font-family: 'AsapBold', sans-serif;
+    color:#444;
 }
 
 
@@ -384,8 +397,32 @@ background: url(../images/cali.jpg) 0 0 no-repeat;
 
 .feature p {
     color:#777;
-    margin-top:10px;
+    max-width:600px;
+    margin:20px auto;
+    text-align:left;
 }
+
+
+.jim {
+    width:150px;
+    height:150px;
+    border-radius:50%;
+    background:url('../images/jim.jpg') -30px center no-repeat;
+    background-size: cover;
+    margin:auto;
+}
+
+@media (max-width:767px){
+
+    .feature img {
+        width:100%;
+    }
+    .feature p {
+        font-size:16px;
+        padding:0 5px;
+    }
+}
+
 
 
 
@@ -402,3 +439,4 @@ background: url(../images/cali.jpg) 0 0 no-repeat;
 .contact {
     height:calc(100vh - 116px);
 }
+
